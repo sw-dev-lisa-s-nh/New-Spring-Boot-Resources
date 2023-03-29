@@ -2,5 +2,5 @@
 
 
 # New-Spring-Boot-Resources 
-#  Author:  Promineo Tech Academic Team
-#  Subject:  Relevant to BE Coding Bootcamp Weeks 13-18
+####  Author:  Promineo Tech Academic Team
+####  Subject:  BE Coding Bootcamp - Weeks 13-18
